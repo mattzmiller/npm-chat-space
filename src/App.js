@@ -1,6 +1,6 @@
 import logo from "./logo.svg";
 import "./App.css";
-import ChatSpace from "./lib/components/ChatSpace.client";
+import ChatSpace from "./lib/components/ChatSpace";
 
 function App() {
   return (
